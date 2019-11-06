@@ -1,0 +1,39 @@
+﻿生成启动时间为 2017/5/11 15:02:21。
+     1>项目“E:\▲科协\科协抢答器\SDK\UI源程序\kexie\kexie\kexie.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在创建“Debug\kexie.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D _UNICODE /D UNICODE /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yc"StdAfx.h" /Fp"Debug\kexie.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt stdafx.cpp
+         stdafx.cpp
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D _UNICODE /D UNICODE /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Debug\kexie.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt kexie.cpp kexieDlg.cpp mscomm1.cpp NumoneDlg.cpp
+         NumoneDlg.cpp
+         mscomm1.cpp
+         kexieDlg.cpp
+         kexie.cpp
+         正在生成代码...
+       ResourceCompile:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /D _DEBUG /D _UNICODE /D UNICODE /D _AFXDLL /l"0x0804" /IDebug\ /nologo /fo"Debug\kexie.res" kexie.rc 
+       ManifestResourceCompile:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"Debug\kexie.exe.embed.manifest.res" Debug\kexie_manifest.rc 
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\▲科协\科协抢答器\SDK\UI源程序\kexie\Debug\kexie.exe" /INCREMENTAL /NOLOGO /MANIFEST /ManifestFile:"Debug\kexie.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"E:\▲科协\科协抢答器\SDK\UI源程序\kexie\Debug\kexie.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"wWinMainCRTStartup" /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\▲科协\科协抢答器\SDK\UI源程序\kexie\Debug\kexie.lib" /MACHINE:X86 Debug\kexie.res
+         Debug\kexie.exe.embed.manifest.res
+         Debug\kexie.obj
+         Debug\kexieDlg.obj
+         Debug\mscomm1.obj
+         Debug\NumoneDlg.obj
+         Debug\stdafx.obj
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\kexie.exe.embed.manifest" /manifest Debug\kexie.exe.intermediate.manifest "C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\Include\Manifest\dpiaware.manifest"
+         所有输出均为最新。
+       LinkEmbedManifest:
+         所有输出均为最新。
+         kexie.vcxproj -> E:\▲科协\科协抢答器\SDK\UI源程序\kexie\Debug\kexie.exe
+       FinalizeBuildStatus:
+         正在删除文件“Debug\kexie.unsuccessfulbuild”。
+         正在对“Debug\kexie.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“E:\▲科协\科协抢答器\SDK\UI源程序\kexie\kexie\kexie.vcxproj”(build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:13.90
